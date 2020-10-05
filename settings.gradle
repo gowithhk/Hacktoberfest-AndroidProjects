@@ -1,0 +1,2 @@
+rootProject.name='harshCalculator'
+include ':app'
